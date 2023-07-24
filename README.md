@@ -1,5 +1,7 @@
 ﻿# portfolio main page
 
+ https://hyunmijin.github.io/web2023/javascript/portfolio/ex1/index.html
+
 ![image](https://github.com/hyunmijin/portfolio_main_gsap/assets/125323270/419097f2-c1ed-40cb-99f9-25052d04cc8e)
 
 <h1>사용 스택</h1>
