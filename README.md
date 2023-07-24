@@ -2,7 +2,7 @@
 
 ![image](https://github.com/hyunmijin/portfolio_main_gsap/assets/125323270/419097f2-c1ed-40cb-99f9-25052d04cc8e)
 
-
+<h1>사용된 효과</h1>
 <h4>페이지 레이아웃 및 스타일링</h4>
 <p>CSS를 사용하여 페이지의 레이아웃과 스타일을 구성하였습니다.<br>
 각 요소들의 위치, 크기, 색상 등을 지정하여 디자인을 구현했습니다.</p>
