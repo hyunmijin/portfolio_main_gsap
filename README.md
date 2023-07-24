@@ -1,5 +1,7 @@
 ﻿# portfolio main page
 
+<p>gsap효과를 사용해 만든 포트폴리오 메인 페이지 입니다.
+</p>
 site: https://hyunmijin.github.io/web2023/javascript/portfolio/ex1/index.html
 
 
